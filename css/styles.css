@@ -1,0 +1,49 @@
+body {
+  font-family: monospace;
+
+}
+p {
+  margin-bottom: 5px;
+}
+
+span {
+  margin-right: 1px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightGray;
+}
+
+.shown {
+  background-color: gray;
+}
+
+.c0 {
+  color: gray;
+}
+.c1 {
+  color: green;
+}
+.c2 {
+  color: blue;
+}
+.c3 {
+  color: red;
+}
+.c4 {
+  color: purple;
+}
+.c5 {
+  color: teal;
+}
+.c6 {
+  color: teal;
+}
+.c7 {
+  color: teal;
+}
+.c8 {
+  color: teal;
+}
